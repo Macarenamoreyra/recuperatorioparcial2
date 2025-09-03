@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recuperatorioparcial2", "recuperatorioparcial2\recuperatorioparcial2.csproj", "{325048BF-263D-44BB-9352-208AFDB3E3ED}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2A6DFC73-E0B3-472C-A210-831559D53A98} = {2A6DFC73-E0B3-472C-A210-831559D53A98}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clasesparcial2", "clasesbiblioteca\clasesparcial2.csproj", "{2A6DFC73-E0B3-472C-A210-831559D53A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325048BF-263D-44BB-9352-208AFDB3E3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325048BF-263D-44BB-9352-208AFDB3E3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325048BF-263D-44BB-9352-208AFDB3E3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325048BF-263D-44BB-9352-208AFDB3E3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6DFC73-E0B3-472C-A210-831559D53A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6DFC73-E0B3-472C-A210-831559D53A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6DFC73-E0B3-472C-A210-831559D53A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6DFC73-E0B3-472C-A210-831559D53A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B98C14-1D5D-402B-BDAA-4D53256FE9B3}
+	EndGlobalSection
+EndGlobal
